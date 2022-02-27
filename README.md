@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nh27tn01m
 - 👀 I’m interested in ...video games
 - 🌱 I’m currently learning ...idk
-- 💞️ I’m looking to collaborate on ...idkwit
-- 📫 How to reach me ...dont want to be disturbed
+- 💞️ I’m looking to collaborate on ...idk
+- 📫 How to reach me ...dont want to be disturb
 
 <!---
 nh27tn01m/nh27tn01m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
